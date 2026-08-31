@@ -1,0 +1,1 @@
+import{t as e}from"./static-5Y2ePC1s.js";var t=t=>e(t?.data||{last:0,equity:0,pnl:0,capital:0,killed:!1,trades:0,fills:[]});export{t as pushSession};
