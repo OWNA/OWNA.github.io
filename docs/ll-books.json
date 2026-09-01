@@ -1,5 +1,5 @@
 {
-  "ts": 1788292156924,
+  "ts": 1788292171811,
   "markets": [
     {
       "id": "383023",
@@ -7,8 +7,8 @@
       "slug": "btc-up-or-down-5-min-1788291900",
       "kind": "5m",
       "venue": "limitless",
-      "up": 0.0875,
-      "down": 0.9125,
+      "up": 0.026,
+      "down": 0.974,
       "volume": 0,
       "end": 1788292200000,
       "href": "https://limitless.exchange/markets/btc-5min-price",
@@ -21,8 +21,8 @@
       "slug": "btc-up-or-down-15-min-1788291900",
       "kind": "15m",
       "venue": "limitless",
-      "up": 0.455,
-      "down": 0.545,
+      "up": 0.38,
+      "down": 0.62,
       "volume": 0,
       "end": 1788292800000,
       "href": "https://limitless.exchange/markets/btc-15min-price",
